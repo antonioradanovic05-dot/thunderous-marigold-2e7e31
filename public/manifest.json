@@ -1,0 +1,20 @@
+{
+  "name": "AR Studio Investor Portal",
+  "short_name": "AR Studio",
+  "description": "Private client portal for 3D house previews, renders, documents, chat, and personalized offers.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#050507",
+  "theme_color": "#050507",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
